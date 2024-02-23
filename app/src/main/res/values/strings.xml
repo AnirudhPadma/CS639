@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Anirudh</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Biography</string>
+    <string name="second_fragment_label">Hobbies</string>
+    <string name="third_fragment_label">Contact</string>
+    <string name="next">Hobbies</string>
+    <string name="previous">Previous</string>
+
+    <string name="lorem_ipsum">
+        I am Anirudh Padma currently doing masters in Computer Science at Pace University.
+
+        Research Interests: My interests focuses on natural language processing (NLP), particularly in the development of dialogue systems for human-computer interaction. I am interested in creating AI agents that can engage in meaningful and informative conversations, understanding user intent and adapting to different contexts.\n\n
+
+
+        Prior Experience: I did my undergraduate education at Vardhaman College of Engineering in Hyderabad, where my major was in Electronics and Communication Engineering.\n\n
+
+        Skills and Awards: I am proficient enough in Python, Java, and C programming languages.\n\n
+
+        Additional Information: In my free time, I enjoy playing board games, basket ball and volunteering at a local animal shelter.\n
+    </string>
+    <string name="action_about">About</string>
+    <string name="action_fb_show_text">Email:anirudhpadma@gmail.com</string>
+    <string name="Hobbies">My Hobbies are playing chess, listening to music, playing piano, drawing and cooking.</string>
+    <string name="Contact">My contact details:Ph.no.+1(551)359 1737</string>
+    <string name="contact">Contact</string>
+    <string name="hobbies">Hobbies</string>
+</resources>
